@@ -53,6 +53,7 @@ net-wireless/wpa_supplicant
 sys-apps/cpuid
 sys-apps/ed
 sys-apps/hdparm
+sys-apps/iproute2
 sys-apps/mlocate
 sys-apps/most
 sys-apps/pciutils
